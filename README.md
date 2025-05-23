@@ -22,12 +22,6 @@
 <h2>🚀 Features</h2>
 
 <h3>🏠 Dashboard Homepage (<code>/</code>)</h3>
-### 📍 Dashboard Homepage
-<img src="./public/dashboard-screenshot.png" alt="Dashboard Page" style="border-radius: 8px; max-width: 100%;">
-
-### 📊 Analytics Dashboard
-<img src="./public/analytics-screenshot.png" alt="Analytics Page" style="border-radius: 8px; max-width: 100%;">
-
 <ul>
   <li>Displays employee cards with name, email, age, department, and performance rating</li>
   <li>Buttons: View, Bookmark, Promote</li>
