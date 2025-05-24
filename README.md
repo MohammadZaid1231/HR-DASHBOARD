@@ -69,7 +69,7 @@
 
 <h2>📦 Installation</h2>
 
-<pre><code>git clone https://github.com/your-username/hr-dashboard.git
+<pre><code>git clone https://github.com/mohammadzaid1231/hr-dashboard.git
 cd hr-dashboard
 npm install
 npm run dev
